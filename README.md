@@ -1,1 +1,2 @@
-MEU PRIMEIRO PROJETO  ANDROID
+Este é o meu primeiro projeto android.
+
